@@ -31,10 +31,6 @@ export default {
 
 <style lang="scss">
 
-a.navbar-item {
-  color: darken($primary, 50%);
-}
-
 </style>
 
 

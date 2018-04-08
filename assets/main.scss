@@ -1,18 +1,16 @@
-// Import Bulma's initial variables
 @import "~bulma/sass/utilities/_all.sass";
 
-// Override initial variables here
-// You can add new ones or update existing ones:
-$primary: rgb(221, 209, 209);
-$blue: #47cef3; // Update blue
-$pink: #ffb3b3; // Add pink
-$family-serif: "Georgia", serif; // Add a serif family
+$primary: #ce3219;
+$secondary: #d8cfa9;
+$dark: rgb(44, 43, 43);
 
-// Override generated variables here
-// For example, by default, the $danger color is $red and the font is sans-serif
-// You can change these values:
+$navbar-item-color: $primary;
+$navbar-item-hover-color: $secondary;
+$navbar-item-hover-background-color: $dark;
 
-$danger: $orange; // Use the existing orange
-$family-primary: $family-serif; // Use the new serif family
+$family-serif: "Georgia", serif;
+
+$danger: $orange;
+$family-primary: $family-serif; 
 
 @import "~bulma/bulma";

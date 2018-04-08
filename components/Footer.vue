@@ -22,7 +22,7 @@ export default {
 
 .footer {
     position: absolute;
-    background-color: $primary;
+    // background-color: $primary;
     width: 100%;
     bottom: 0;
     overflow:hidden;

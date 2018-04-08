@@ -44,4 +44,8 @@ img:hover {
   opacity: 0.4;
 }
 
+.card-content {
+  background-color: $secondary;
+}
+
 </style>

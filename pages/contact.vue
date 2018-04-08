@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="card">
-      <div class="card content">
+      <div class="card-content">
         <ul class="menu-list">
           <li><a>612.251.6818</a></li>
           <li><a herf="mailto:matt.a.larson@gmail.com">matt.a.larson@gmail.com</a></li>
@@ -25,6 +25,10 @@ export default {
 
 li {
   list-style: none;
+}
+
+.card-content {
+  background-color: $secondary;
 }
 
 </style>
