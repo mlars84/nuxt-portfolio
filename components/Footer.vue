@@ -22,11 +22,16 @@ export default {
 
 .footer {
     position: absolute;
-    // background-color: $primary;
     width: 100%;
-    // height: 10%;
     bottom: 0;
     overflow:hidden;
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+      .footer {}
 }
 </style>
 
