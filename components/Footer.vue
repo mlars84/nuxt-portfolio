@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="content has-text-centered">
                     <p>
-                    Site created with NuxtJS/Bulma/Sass
+                    &copy; 2018 -  Matt Larson 
                     </p>
                 </div>
             </div>
@@ -24,6 +24,7 @@ export default {
     position: absolute;
     // background-color: $primary;
     width: 100%;
+    height: 10%;
     bottom: 0;
     overflow:hidden;
 }

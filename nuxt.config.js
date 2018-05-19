@@ -10,13 +10,10 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Nuxt.js project' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
     ],
-    css: [
-      // node.js module but we specify the pre-processor
-      { src: '~assets/main.sass', lang: 'sass' },
-      // { src: 'bulma/bulma.sass', lang: 'sass' },
-      { src: 'font-awesome/scss/font-awesome.scss', lang: 'scss' },
+    script: [
+      { src: 'https://unpkg.com/ionicons@4.1.1/dist/ionicons.js' }
     ]
   },
   modules: [
