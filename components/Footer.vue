@@ -1,6 +1,6 @@
 <template>
     <div class="main">
-        <footer class="footer">
+        <footer class="footer is-paddingless">
             <div class="container">
                 <div class="content has-text-centered">
                     <p>
@@ -24,7 +24,7 @@ export default {
     position: absolute;
     // background-color: $primary;
     width: 100%;
-    height: 10%;
+    // height: 10%;
     bottom: 0;
     overflow:hidden;
 }

@@ -2,13 +2,13 @@
   <div class="container">
     <section class="section">
       <div class="container">
-        <h1 class="title">A little about me...</h1>
-        <h4 class="subtitle">I've always enjoyed making things. Solving problems. Coding is my primary tool for that at the moment, 
+        <h1 class="title has-text-grey">A little about me...</h1>
+        <h4 class="subtitle has-text-grey">I've always enjoyed making things. Solving problems. Coding is my primary tool for that at the moment, 
           but I also enjoy bike repair, home remodeling and maintenance,
-        instrument repair and basic electronics. 
+        instrument repair, gaming, baking and basic electronics. 
       </h4>
-      <h5 class="subtitle">
-        I primarily work with JavaScript ES6+, VueJS/Vuex/NuxtJS/Quasar, ReactJS/Redux, Laravel/PHP, 
+      <h5 class="subtitle has-text-grey">
+        On a daily basis, I primarily work with JavaScript ES6+, VueJS/Vuex/NuxtJS/Quasar, ReactJS/Redux, Laravel/PHP, 
         CentOS and Virtual Machines, Docker,
         all the SQL's, GraphQL/Apollo, CSS and pre-processors 
         like Sass and Stylus,

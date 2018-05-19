@@ -2,8 +2,8 @@
   <div class="container">
     <section class="section">
       <div class="container">
-        <h1 class="title">Welcome</h1>
-        <h2 class="subtitle">
+        <h1 class="title is-italic">Welcome</h1>
+        <h2 class="subtitle has-text-grey">
           I am a Full Stack Developer from Saint Paul, MN currently working at US Internet in the 
           Twin Cities.
         </h2>
@@ -16,8 +16,8 @@
                 </figure>
               </div>
               <div class="media-content">
-                <p class="title is-4">Matt Larson</p>
-                <p class="subtitle is-6">@mlars84</p>
+                <p class="title is-4 has-text-grey">Matt Larson</p>
+                <p class="subtitle is-6 has-text-grey">@mlars84</p>
               </div>
             </div>
           </div>
