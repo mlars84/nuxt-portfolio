@@ -13,7 +13,9 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
     ],
     script: [
-      { src: 'https://unpkg.com/ionicons@4.1.1/dist/ionicons.js' }
+      { src: 'https://unpkg.com/ionicons@4.1.1/dist/ionicons.js' },
+      { type: 'text/javascript', src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/js/uikit.min.js' },
+      { type: 'text/javascript', src: 'https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.30/js/uikit-icons.min.js' }
     ]
   },
   modules: [

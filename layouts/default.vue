@@ -1,9 +1,9 @@
 <template>
-  <div class="main">
-    <NavBar />
-    <nuxt/>
-    <Footer />
-  </div>
+    <div class="body">
+        <NavBar />
+        <nuxt />
+        <Footer />
+    </div>
 </template>
 
 <script>
@@ -30,6 +30,11 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin: 0;
 }
 
 </style>

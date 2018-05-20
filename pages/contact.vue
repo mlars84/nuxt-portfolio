@@ -3,7 +3,7 @@
     <div class="card">
       <div class="card-content">
         <aside class="menu">
-            <p class="menu-label">
+            <p class="menu-label has-text-centered">
               Say hello
             </p>
             <ul>
