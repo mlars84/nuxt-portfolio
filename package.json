@@ -14,8 +14,10 @@
     "heroku-postbuild": "npm run build"
   },
   "dependencies": {
+    "aws-cli": "^0.0.2",
     "bulma": "^0.6.2",
     "font-awesome": "^4.7.0",
+    "global": "^4.3.2",
     "nuxt": "^1.0.0",
     "nuxt-sass-resources-loader": "^2.0.0",
     "vue-style-loader": "^4.1.0"
