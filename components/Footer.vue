@@ -2,7 +2,7 @@
     <div class="main">
         <footer class="navbar is-paddingless is-fixed-bottom">
             <p class="navbar-item">&copy; {{ currentYear }} -  Matt Larson</p> 
-            <p class="navbar-item">This site built with Nuxt, Bulma, Sass and deployed via AWS-cli.</p>
+            <p class="navbar-item">This site built with VueJS/Nuxt, Bulma, Sass and deployed via AWS-cli.</p>
         </footer>
     </div>  
 </template>
