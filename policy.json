@@ -5,8 +5,8 @@
       "Principal": "*",
       "Action": "s3:GetObject",
       "Resource": [
-        "arn:aws:s3:::matthewlarsondev.com/*",
-        "arn:aws:s3:::www.matthewlarsondev.com/*"
+        "arn:aws:s3:::mattlarson.dev/*",
+        "arn:aws:s3:::www.mattlarson.dev/*"
       ]
     }
   ]
